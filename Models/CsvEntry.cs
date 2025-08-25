@@ -1,6 +1,6 @@
 namespace Scheduler.Models;
 
-class CsvEntry
+public class CsvEntry
 {
     public required string Code { get; set; }
     public required string Title { get; set; }

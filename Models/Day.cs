@@ -1,6 +1,6 @@
 namespace Scheduler.Models;
 
-enum Day
+public enum Day
 {
     Po,
     Ut,
