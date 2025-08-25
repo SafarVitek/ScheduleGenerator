@@ -1,0 +1,19 @@
+Kód,Název,Den,Od,Do,Týdny,Místnost
+AJ1101,Praktický jazyk,st,12:00,15:00,,Prez04
+AJ1101,Praktický jazyk,ut,08:00,11:00,,Prez05
+AJ1101,Praktický jazyk,st,17:00,20:00,,Prez07
+AJ1203,Gramatika,ct,08:00,10:00,,04
+AJ1203,Gramatika,st,12:00,14:00,,08
+AJ1201,Fonetika,ut,13:00,15:00,,04
+AJ1201,Fonetika,st,12:00,14:00,,05
+AJ1201,Fonetika,st,16:00,18:00,,06
+AJ1201,Fonetika,ct,08:00,10:00,,07
+AJ1201,Fonetika,ct,14:00,16:00,,08
+AJ1201,Fonetika,ut,15:00,17:00,,09
+PED1010-S,Pedagogika,po,10:00,12:00,sudý,PrezSem11
+PED1010-P,Pedagogika,st,09:00,11:00,,PrezPred02
+TI1001-C,Grafika,po,12:00,14:00,,01
+TI1001-P,Grafika,st,08:00,09:00,,Před
+TI1002-C,Materiály,ct,10:00,12:00,,01
+TI1002-P,Materiály,ct,12:00,13:00,,Před
+TI1003,Zpracování dat,po,08:00,10:00,,01
