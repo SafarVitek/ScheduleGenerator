@@ -1,6 +1,6 @@
 # ScheduleGenerator
 
-ScheduleGenerator is a **C# console application** that converts a CSV schedule into multiple JSON schedules without collisions. The generated JSON is compatible with [kubosh.net](https://kubosh.net), allowing easy import into your timetable system.
+ScheduleGenerator is a **C# console application** that converts a CSV schedule into multiple JSON schedules without collisions. The generated JSON is compatible with [kubosh.net](https://kubosh.net) for visualization.
 
 ---
 
